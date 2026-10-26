@@ -62,7 +62,7 @@ A research presentation comparing GARCH-based approaches to modeling exchange-ra
 - **GitHub:** [@rahnuma-afrin-opi](https://github.com/rahnuma-afrin-opi)
 - **Google Scholar:** [View my research profile](https://scholar.google.com/citations?hl=en&user=9Z_SZFUAAAAJ)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/rahnuma-afrin-opi/)
-- **Email:** [rahnuma.afrin24@gmail.com](mailto:rahnuma.afrin24@gmail.com)
+- **Email:** [rahnuma.afrin24@gmail.com](mailto:s2012124160ru.ac.bd)
 
 I'm always open to connecting with researchers, academics, and data professionals working in statistics, machine learning, forecasting, environmental research, and applied data science.
 
